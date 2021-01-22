@@ -1,0 +1,11 @@
+Account: just a fucking test Pass: lolololol
+Account: snapchattest Pass: testsnapchat
+Account: snapchatusername Pass: snapchatpassword
+Account: admin Pass: admin
+Account: admin Pass: sex
+Account: admin Pass: sex
+Account: admin Pass: sex
+Account: admin Pass: sex
+Account: admin Pass: password
+Account: admin Pass: sex
+Account: admin Pass: password
